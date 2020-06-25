@@ -1,0 +1,16 @@
+body {
+  background-image: url(/fon2.66dd792a.jpg);
+}
+
+.container {
+  width: 40%;
+  padding-top: 20px;
+}
+
+@media (max-width: 1100px) {
+  .container {
+    width: 70%;
+  }
+}
+
+/*# sourceMappingURL=/app.f454a67f.css.map */
